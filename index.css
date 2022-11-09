@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+header {
+    height: 90px;
+    line-height: 90px;
+    width: 940px;
+    border-bottom: 2px solid #828282;
+    /** vvvv это писал я vvvv */
+    margin: 0 auto 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: #828282;
+    font-weight: 600;
+}
+
+a:hover {
+    color: black;
+}
+
+.pussy {
+    margin: 0 auto 0 auto;
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kotik {
+    transform: rotate(-90deg);
+    position: relative;
+    left: 25px;
+}
+
+.pussy {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.me {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.me {
+    border-radius: 30px
+}
+
+
+.about {
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 940px;
+
+}
+
+.serii {
+    background: #f6f6f6;
+    margin: 60px 0;
+    text-align: center;
+    padding: 60px 0;
+
+}
