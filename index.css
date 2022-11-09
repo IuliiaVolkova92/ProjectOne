@@ -47,12 +47,8 @@ a:hover {
 .me {
     display: block;
     margin: 0 auto 0 auto;
-}
-
-.me {
     border-radius: 30px
 }
-
 
 .about {
     display: block;
